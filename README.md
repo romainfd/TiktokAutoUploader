@@ -1,3 +1,15 @@
+# Tiktok Uploader
+```bash
+pip install -r requirements.txt
+pip install git+https://github.com/pytube/pytube
+# Install ImageMagick 
+which magick
+# Update moviepy IMAGEMAGICK_BINARY variable?
+# subl ~/code/envs/all/lib/python3.9/site-packages/moviepy/config_defaults.py
+python main.py 
+```
+
+---
 # TiktokAutoUploader v1.3
 Automatically Edits Videos and Uploads to Tiktok with 1 line of code.
 
